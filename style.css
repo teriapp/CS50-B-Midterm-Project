@@ -1,0 +1,161 @@
+
+
+h1, h4  {
+    
+    color: #Dbd9de;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    font-family: 'Cinzel', serif;
+    
+}
+
+h6 {
+    color: #c2c0c0;
+    font-family: 'Cinzel', serif;
+    
+}
+
+
+h5 {
+    
+    text-align: center;
+    color: #c2c0c0;
+     font-family: 'Cinzel', serif;
+    padding-top: 5rem;
+    
+}
+
+p {
+    color: #Dbd9de;
+    font-size: 18px;
+    padding-top: 1rem;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: justify;
+    
+}
+
+.mainp {
+    
+    text-align: center;
+}
+
+
+.bg-white {
+    
+  text-align: center;
+  font-family: 'Cinzel', serif;
+    margin-bottom: ;
+    color: black;
+ 
+}
+
+
+figure {
+ color: azure;
+ font-size: 12px;
+font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+.main {
+    
+    background-color: #1c1c1c;
+    
+    text-align: center;
+}
+
+
+.solar
+
+{
+    
+    background-image: url(assets/lenstravelier-obsBswnv7FI-unsplash.jpg);
+     background-size: cover;
+    text-align: left;
+    
+    
+    }
+
+.catalog {
+    
+    background-color: #1c1c1c;
+   
+}
+
+.about {
+
+    background-color: #1c1c1c;
+    
+    
+
+}
+
+.mercury {
+    background-image: url(assets/mercury.jpg);
+     background-size: cover;
+    text-align: left;
+    
+}
+
+.venus {
+
+   background-image: url(assets/venus.jpg);
+     background-size: cover;
+    text-align: left;
+}
+
+.earth {
+
+   background-image: url(assets/earth.jpg);
+     background-size: cover;
+    text-align: left;
+}
+
+
+.header {
+    
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+
+.navbar {
+    
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    text-decoration: overline;
+  
+}
+
+.badge {
+    
+    font-family: 'Josefin Sans', sans-serif;
+    color: lightpink;
+    border-radius: 50%;
+    
+}
+
+.mb-3 {
+    
+    color: #ebe4f2;
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+
+
+
+footer {
+  text-align: center;
+  font-size: 12px;
+  padding: 3px;
+  color: #Dbd9de;
+    margin-top: 21rem;
+}
+
+.dropdown-menu {
+    
+   background-color: rgb(42,41,43);opacity:0.75;
+   
+}
+
+
+
